@@ -1,0 +1,3 @@
+Gra konsolowa snake.
+
+Działa tylko na Windowsie.
