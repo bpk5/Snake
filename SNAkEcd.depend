@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1462778780 source:c:\users\bartek\desktop\snakecd\main.cpp
+	<iostream>
+	<windows.h>
+	"plansza.h"
+	"snake.h"
+	"jablko.h"
+
+1462779588 c:\users\bartek\desktop\snakecd\plansza.h
+	"jablko.h"
+	"snake.h"
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<iterator>
+	<list>
+
+1462776389 c:\users\bartek\desktop\snakecd\jablko.h
+	<cstdlib>
+
+1462777122 c:\users\bartek\desktop\snakecd\snake.h
+	<conio.h>
+	<list>
+
+1462779882 source:c:\users\bartek\desktop\snakecd\jablko.cpp
+	"jablko.h"
+
+1462779991 source:c:\users\bartek\desktop\snakecd\snake.cpp
+	"snake.h"
+
